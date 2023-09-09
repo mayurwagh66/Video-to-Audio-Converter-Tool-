@@ -1,12 +1,11 @@
-# Video-to-Audio-Converter-Tool-
-
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGx2t31gF0AArtaQpu-GamaRxSWtS8uIbdLE0ISmi9Wu8sTzNAx9FadhgFUDdnawxS3aY5eXxiYhrezF-LgpJvFwXUxQumrCIVWJW8rZyq5GSqwkqqXUH2tOvZ7UA6WA-wSAx2WOpQ43ImsVO8gAeHcyS6A2flejBP2MGbJ2JnUwK9R6O0IqXZiNxbr_CJ/s303/photo.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="167" data-original-width="303" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGx2t31gF0AArtaQpu-GamaRxSWtS8uIbdLE0ISmi9Wu8sTzNAx9FadhgFUDdnawxS3aY5eXxiYhrezF-LgpJvFwXUxQumrCIVWJW8rZyq5GSqwkqqXUH2tOvZ7UA6WA-wSAx2WOpQ43ImsVO8gAeHcyS6A2flejBP2MGbJ2JnUwK9R6O0IqXZiNxbr_CJ/s320/photo.png"/></a></div>
             <!DOCTYPE html>
 <html>
 <head>
   <title>Video to Audio Converter</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family:palatino, sans-serif;
       margin: 0;
       padding: 20px;
       text-align: center;
@@ -29,8 +28,8 @@
     #convertButton {
       padding: 10px 20px;
       font-size: 16px;
-      background-color: #4CAF50;
-      color: white;
+      background-color: #FFB300;
+      color: black;
       border: none;
       cursor: pointer;
     }
@@ -40,12 +39,12 @@
       margin-top: 20px;
       font-size: 16px;
       text-decoration: none;
-      background-color: #4CAF50;
+      background-color: #FFB300;
       color: white;
       padding: 10px 20px;
     }
   </style>
-  <script src="https://msw.googleapis.com/msw/libs/jquery/3.5.1/jquery.min.js"></script>
+  </script>
 </head>
 <body>
   <h1>Video to Audio Converter</h1>
