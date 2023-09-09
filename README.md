@@ -1,6 +1,5 @@
 # Video-to-Audio-Converter-Tool-
-Video to Audio Converter Tool:
-<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg75HJnUhFpXI7Gsp1fXzvbrNLCnV1YeHerBfjrQhhF-5YRhM455-QHGbKjuctkRCZK8aX6vS6YGApDuQt15TRbRuVfRT_PNNK6R98cwJlAVjJJfmipUV7uKXv1g6wOxWdn5Fky98-dkAt-PlZNot-UQtXg4iUVm-kfckuQ3fHPsKSbj37LvHnq7U7fLNBK/s303/images.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="400" data-original-height="167" data-original-width="303" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg75HJnUhFpXI7Gsp1fXzvbrNLCnV1YeHerBfjrQhhF-5YRhM455-QHGbKjuctkRCZK8aX6vS6YGApDuQt15TRbRuVfRT_PNNK6R98cwJlAVjJJfmipUV7uKXv1g6wOxWdn5Fky98-dkAt-PlZNot-UQtXg4iUVm-kfckuQ3fHPsKSbj37LvHnq7U7fLNBK/s400/images.png"/></a></div>
+
             <!DOCTYPE html>
 <html>
 <head>
@@ -46,7 +45,7 @@ Video to Audio Converter Tool:
       padding: 10px 20px;
     }
   </style>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://msw.googleapis.com/msw/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
   <h1>Video to Audio Converter</h1>
